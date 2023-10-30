@@ -3,7 +3,7 @@
 
 Welcome to the Book Management System. 
 
-## Objective: Develope a RESTful API using Node.js for managing books
+## Objective: Develop a RESTful API using Node.js for managing books
 
 ### Features
 
